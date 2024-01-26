@@ -1,3 +1,5 @@
+MODULE 2
+
 Script started on Thu Jan 25 22:04:49 2024
 [1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP ~ % [K[?2004h[7mcurl -L -o log.tar.gz "https://www.dropbox.c[7mo[7mm/s/14jagxjbzhyxg8g/log.tar.gz?dl=0"[27m[K[A[27mc[27mu[27mr[27ml[27m [27m-[27mL[27m [27m-[27mo[27m [27ml[27mo[27mg[27m.[27mt[27ma[27mr[27m.[27mg[27mz[27m [27m"[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mw[27mw[27mw[27m.[27md[27mr[27mo[27mp[27mb[27mo[27mx[27m.[27mco[27mm[27m/[27ms[27m/[27m1[27m4[27mj[27ma[27mg[27mx[27mj[27mb[27mz[27mh[27my[27mx[27mg[27m8[27mg[27m/[27ml[27mo[27mg[27m.[27mt[27ma[27mr[27m.[27mg[27mz[27m?[27md[27ml[27m=[27m0[27m"[?2004l
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
@@ -82,4 +84,45 @@ README.md				results_module2_basics.txt
 bash_session_transcript_module2.txt
 [1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hggit add -all[?2004l
 error: did you mean `--all` (with two dashes)?
-[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004h
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hgit add -all-all[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hggit status[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   bash_session_transcript_module2.txt[m
+	[32mnew file:   results_module2_basics.txt[m
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hggit commit -m "initial"[?2004l
+[main 13d2358] initial
+ 2 files changed, 106 insertions(+)
+ create mode 100644 bash_session_transcript_module2.txt
+ create mode 100644 results_module2_basics.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hc ggit push[?2004l
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 3.91 KiB | 3.91 MiB/s, done.
+Total 4 (delta 0), reused 1 (delta 0), pack-reused 0
+To github.com:NyeinChan85/stc510.git
+   e662ef5..13d2358  main -> main
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hlls[?2004l
+README.md				results_module2_basics.txt
+bash_session_transcript_module2.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hvvim bash_session_transcript_module2.txt[1m [0m[K[K[?2004l
+(base) nyeinchankyaw@NYEINs-MBP stc510 % ls
+README.md				results_module2_basics.txt
+bash_session_transcript_module2.txt
+(base) nyeinchankyaw@NYEINs-MBP stc510 % vim bash_session_transcript_module2.txt
+(base) nyeinchankyaw@NYEINs-MBP stc510 % exit
+
+
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Jan 25 22:17:46 2024
