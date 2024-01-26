@@ -1,0 +1,85 @@
+Script started on Thu Jan 25 22:04:49 2024
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP ~ % [K[?2004h[7mcurl -L -o log.tar.gz "https://www.dropbox.c[7mo[7mm/s/14jagxjbzhyxg8g/log.tar.gz?dl=0"[27m[K[A[27mc[27mu[27mr[27ml[27m [27m-[27mL[27m [27m-[27mo[27m [27ml[27mo[27mg[27m.[27mt[27ma[27mr[27m.[27mg[27mz[27m [27m"[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mw[27mw[27mw[27m.[27md[27mr[27mo[27mp[27mb[27mo[27mx[27m.[27mco[27mm[27m/[27ms[27m/[27m1[27m4[27mj[27ma[27mg[27mx[27mj[27mb[27mz[27mh[27my[27mx[27mg[27m8[27mg[27m/[27ml[27mo[27mg[27m.[27mt[27ma[27mr[27m.[27mg[27mz[27m?[27md[27ml[27m=[27m0[27m"[?2004l
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    56    0    56    0     0    183      0 --:--:-- --:--:-- --:--:--   184100    56    0    56    0     0    182      0 --:--:-- --:--:-- --:--:--   184
+100   318  100   318    0     0    467      0 --:--:-- --:--:-- --:--:--   467
+100   491    0   491    0     0    345      0 --:--:--  0:00:01 --:--:--   345100   491    0   491    0     0    345      0 --:--:--  0:00:01 --:--:--     0
+  1  366M    1 4895k    0     0  2149k      0  0:02:54  0:00:02  0:02:52 2149k 21  366M   21 80.0M    0     0  24.4M      0  0:00:15  0:00:03  0:00:12 75.3M 38  366M   38  142M    0     0  33.4M      0  0:00:10  0:00:04  0:00:06 69.0M 60  366M   60  220M    0     0  41.5M      0  0:00:08  0:00:05  0:00:03 71.1M 81  366M   81  299M    0     0  47.0M      0  0:00:07  0:00:06  0:00:01 72.1M 98  366M   98  361M    0     0  49.7M      0  0:00:07  0:00:07 --:--:-- 71.4M100  366M  100  366M    0     0  49.2M      0  0:00:07  0:00:07 --:--:-- 68.8M
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP ~ % [K[?2004h[7m% tar -xzvf log.tar.gz[27m[22D[27m%[27m [27mt[27ma[27mr[27m [27m-[27mx[27mz[27mv[27mf[27m [27ml[27mo[27mg[27m.[27mt[27ma[27mr[27m.[27mg[27mz[P[21C [22D[?2004l
+x log.csv
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP ~ % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP ~ % [K[?2004hhhead log.csv[?2004l
+ip,date,time,zone,cik,accession,extention,code,size,idx,norefer,noagent,find,crawler,browser
+101.81.229.jeb,2017-06-27,00:00:00,0.0,83402.0,0000083402-97-000006,-index.html,200.0,7492.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,748592.0,0001019687-09-002913,-index.htm,200.0,7931.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,768835.0,0000950152-00-003270,-index.html,200.0,7809.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,769397.0,0000929624-99-000165,-index.html,200.0,6624.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,769397.0,0000769397-17-000031,-index.htm,200.0,11561.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,354950.0,0000354950-99-000003,-index.html,200.0,7224.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,886744.0,0001095811-01-504221,-index.htm,200.0,6420.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,842183.0,0000950123-94-000909,-index.html,200.0,6356.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,748592.0,0001019687-13-004331,-index.htm,200.0,11234.0,1.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP ~ % [K[?2004h[7mgrep -E 'education.*\.txt\b' log.csv[27m[36D[27mg[27mr[27me[27mp[27m [27m-[27mE[27m [27m'[27me[27md[27mu[27mc[27ma[27mt[27mi[27mo[27mn[27m.[27m*[27m\[27m.[27mt[27mx[27mt[27m\[27mb[27m'[27m [27ml[27mo[27mg[27m.[27mc[27ms[27mv[?2004l
+1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4careereducation.txt,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,06:59:20,0.0,922475.0,0001086364-10-008787,itteducation012910.txt,200.0,5188.0,0.0,0.0,0.0,10.0,0.0,
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,07:44:03,0.0,895421.0,0000895421-10-000405,neworientaleducation1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,08:21:58,0.0,895421.0,0000895421-10-000405,neworientaleducation1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:45:47,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:03:10,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:15:16,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+117.136.0.cca,2017-06-27,13:38:10,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+204.4.182.ide,2017-06-27,13:48:17,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+156.33.118.eja,2017-06-27,14:37:56,0.0,929887.0,0000215457-17-002148,apollo.education.gro.txt,200.0,5094.0,0.0,0.0,0.0,9.0,0.0,
+206.200.253.bjg,2017-06-27,15:02:11,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,4678.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,15:49:11,0.0,895421.0,0000895421-09-000638,careereducation3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,15:51:33,0.0,895421.0,0000895421-09-000638,careereducation3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,16:27:39,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,17:35:04,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3careereducation.txt,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,educationrealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+58.177.7.fad,2017-06-27,23:54:52,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4931.0,0.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP ~ % [K[?2004h[7mcat log.csv | grep -E 'education.*\.txt\b' >[7m [7mresults.txt [27m[K[A[23C[27mc[27ma[27mt[27m [27ml[27mo[27mg[27m.[27mc[27ms[27mv[27m [27m|[27m [27mg[27mr[27me[27mp[27m [27m-[27mE[27m [27m'[27me[27md[27mu[27mc[27ma[27mt[27mi[27mo[27mn[27m.[27m*[27m\[27m.[27mt[27mx[27mt[27m\[27mb[27m'[27m [27m> [27mr[27me[27ms[27mu[27ml[27mt[27ms[27m.[27mt[27mx[27mt[K[1C[1C_.txt m.txt o.txt d.txt u.txt l.txt e.txt 2.txt _.txt b.txt a.txt s.txt i.txt c.txt s.txt [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP ~ % [K[?2004hccd c  lls[?2004l
+Applications				Pictures
+Blend					Public
+Creative Cloud Files			Sites
+Desktop					bash_session_transcript_module2.txt
+Documents				iCloud Drive (Archive)
+Downloads				log.csv
+Library					log.tar.gz
+Movies					opt
+Music					results_module2_basics.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP ~ % [K[?2004hccd Do  documents[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP documents % [K[?2004hccd Github[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP Github % [K[?2004h[7mgit@github.com:NyeinChan85/stc510.git[27m[37D[27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mN[27my[27me[27mi[27mn[27mC[27mh[27ma[27mn[27m8[27m5[27m/[27ms[27mt[27mc[27m5[27m1[27m0[27m.[27mg[27mi[27mt[?2004l
+zsh: no such file or directory: git@github.com:NyeinChan85/stc510.git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP Github % [K[?2004hlls st  stc510[?2004l
+ls: stc510: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP Github % [K[?2004hmmv m  lls[?2004l
+OG-ZAF		stc510__
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP Github % [K[?2004hc lls[?2004l
+OG-ZAF		stc510__
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP Github % [K[?2004hggit clone [7mgit@github.com:NyeinChan85/st[7mc[7m510.git[27m[K[A[43C[27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mN[27my[27me[27mi[27mn[27mC[27mh[27ma[27mn[27m8[27m5[27m/[27ms[27mtc[27m5[27m1[27m0[27m.[27mg[27mi[27mt[?2004l
+Cloning into 'stc510'...
+remote: Enumerating objects: 11, done.[K
+remote: Counting objects:   9% (1/11)[Kremote: Counting objects:  18% (2/11)[Kremote: Counting objects:  27% (3/11)[Kremote: Counting objects:  36% (4/11)[Kremote: Counting objects:  45% (5/11)[Kremote: Counting objects:  54% (6/11)[Kremote: Counting objects:  63% (7/11)[Kremote: Counting objects:  72% (8/11)[Kremote: Counting objects:  81% (9/11)[Kremote: Counting objects:  90% (10/11)[Kremote: Counting objects: 100% (11/11)[Kremote: Counting objects: 100% (11/11), done.[K
+remote: Compressing objects:   9% (1/11)[Kremote: Compressing objects:  18% (2/11)[Kremote: Compressing objects:  27% (3/11)[Kremote: Compressing objects:  36% (4/11)[Kremote: Compressing objects:  45% (5/11)[Kremote: Compressing objects:  54% (6/11)[Kremote: Compressing objects:  63% (7/11)[Kremote: Compressing objects:  72% (8/11)[Kremote: Compressing objects:  81% (9/11)[Kremote: Compressing objects:  90% (10/11)[Kremote: Compressing objects: 100% (11/11)[Kremote: Compressing objects: 100% (11/11), done.[K
+remote: Total 11 (delta 2), reused 4 (delta 0), pack-reused 0[K
+Receiving objects:   9% (1/11)Receiving objects:  18% (2/11)Receiving objects:  27% (3/11)Receiving objects:  36% (4/11)Receiving objects:  45% (5/11)Receiving objects:  54% (6/11)Receiving objects:  63% (7/11)Receiving objects:  72% (8/11)Receiving objects:  81% (9/11)Receiving objects:  90% (10/11)Receiving objects: 100% (11/11)Receiving objects: 100% (11/11), 6.72 KiB | 6.72 MiB/s, done.
+Resolving deltas:   0% (0/2)Resolving deltas:  50% (1/2)Resolving deltas: 100% (2/2)Resolving deltas: 100% (2/2), done.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP Github % [K[?2004hccd stc510[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hlls[?2004l
+README.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hmmv ~/results_module2_basics.txt[1m [0m[0m ~/docum [Keents/Github/stc510[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hmmv ~/results_module2_basics.txt ~/documents/Github/stc510[K[A[23Cls[K[1B[K[A[43Cmv ~/results_module2_basics.txt ~/documents/Github/stc510[K[A[79C[P[12Cen[P[16C [A[49C[P[13Cnt[P[15C [A[49C[P[14Cts[P[14C [A[49C[P[15Cs/[P[13C [A[49C[P[16C/G[P[12C [A[49C[P[17CGi[P[11C [A[49C[P[18Cit[P[10C [A[49C[P[19Cth[P[9C [A[49C[P[20Chub/stc510 [A[49C[P[21Cub/stc510 [A[49C[P[22Cb/stc510 [A[49C[P[23C/stc510 [A[49C[P[24Cstc510 [A[49C[P[25Ctc510 [A[49C[P[26Cc510 [A[49C[P[27C510 [A[49C[P[28C10 [A[49C[P[29C0 [K[A[49C[P[30C[K[1B[K[A[49C[P[30C [31D[P[30C [31D[P[30C [31Db.txt ~/documents/Github/stc510[30Da.txt ~/documents/Github/stc510[30Ds.txt ~/documents/Github/stc510[30Dh.txt ~/documents/Github/stc510 [K[A[50C_.txt ~/documents/Github/stc510[A[50Cs.txt ~/documents/Github/stc510[A[50Ce.txt ~/documents/Github/stc510[A[50Cs.txt ~/documents/Github/stc510[A[50Cs.txt ~/documents/Github/stc510[A[50Ci.txt ~/documents/Github/stc510[A[50Co.txt ~/documents/Github/stc510[A[50Cn.txt ~/documents/Github/stc510[A[50C_.txt ~/documents/Github/stc510[A[50Cs.txt ~/documents/Github/stc510[A[50Ct.txt ~/documents/Github/stc510[A[50Cr.txt ~/documents/Github/stc510[A[50C[P[18Cit[P[10C [A[49C[P[19Cth[P[9C [A[49C[P[20Chub/stc510 [A[49Ct.txt ~/documents/Github/stc510[A[50Cr.txt ~/documents/Github/stc510[A[50Ca.txt ~/documents/Github/stc510[A[50Cn.txt ~/documents/Github/stc510[A[50Cs.txt ~/documents/Github/stc510[A[50Cc.txt ~/documents/Github/stc510[A[50Cr.txt ~/documents/Github/stc510[A[50Ci.txt ~/documents/Github/stc510[A[50Cp.txt ~/documents/Github/stc510[A[50Ct.txt ~/documents/Github/stc510[A[50C_.txt ~/documents/Github/stc510[A[50Cm.txt ~/documents/Github/stc510[A[50Co.txt ~/documents/Github/stc510[A[50Cd.txt ~/documents/Github/stc510[A[50Cu.txt ~/documents/Github/stc510[A[50Cl.txt ~/documents/Github/stc510[A[50Ce.txt ~/documents/Github/stc510[A[50C2.txt ~/documents/Github/stc510[A[50C[?2004l[1B
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hlls[?2004l
+README.md				results_module2_basics.txt
+bash_session_transcript_module2.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004hggit add -all[?2004l
+error: did you mean `--all` (with two dashes)?
+[1m[7m%[27m[1m[0m                                                                                ]7;file://NYEINs-MBP/Users/nyeinchankyaw/documents/Github/stc510[0m[27m[24m[J(base) nyeinchankyaw@NYEINs-MBP stc510 % [K[?2004h
