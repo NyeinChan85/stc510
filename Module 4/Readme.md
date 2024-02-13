@@ -2,7 +2,7 @@
 
 ### Description
 
-This project contains the Python script that, when executed, detects any mentions of a particular keyword on Mastodon, Twitter, Gab, Parler, Truth Social, Telegram, or MeWe, or similar, and stores these to a report.
+This project contains a Python script that, when executed, detects any mentions of a particular keyword on Mastodon, Twitter, Gab, Parler, Truth Social, Telegram, or MeWe, or similar, and stores these to a report.
 
 In this project, Selenium is utilized to access the "Craigslist - New York" website("https://newyork.craigslist.org/") . The functionalities of Selenium, BeautifulSoup, and Chrome WebDriver are used to locate appropriate titles/posts related to the keyword "jobs." The results, an available list of job categories found on the site, are generated as a CSV file named "job_catagories_list.csv". 
 
