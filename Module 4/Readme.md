@@ -9,13 +9,19 @@ In this project, Selenium is utilized to access the "Craigslist - New York" webs
 ### Prerequisites
 
 [selenium · PyPI](https://pypi.org/project/selenium/)
+
 [ChromeDriver - WebDriver for Chrome - Downloads (chromium.org)](https://chromedriver.chromium.org/downloads)
+
  Beautiful Soup ( pip install beautifulsoup4)
 
 ### References
 
 Scrapping Site -> "https://newyork.craigslist.org/"
+
 [Beautiful Soup: Build a Web Scraper With Python – Real Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+
 [Combine Web Scraping, API Requests & Visualizations | by Techletters | Python Point | Medium](https://medium.com/python-point/combining-web-scraping-api-requests-visualizations-6b7a4cfacdd2)
+
 [ChatGPT (openai.com)](https://chat.openai.com/) (for troubleshooting errors)
+
 https://stackoverflow.com/questions/77515424/issues-downloading-chrome-driver-for-selenium-2023 (for troubleshooting errors)
