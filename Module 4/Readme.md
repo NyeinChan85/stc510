@@ -12,7 +12,7 @@ In this project, Selenium is utilized to access the "Craigslist - New York" webs
 
 [ChromeDriver - WebDriver for Chrome - Downloads (chromium.org)](https://chromedriver.chromium.org/downloads)
 
- Beautiful Soup ( pip install beautifulsoup4)
+[ Beautiful Soup ( pip install beautifulsoup4)](https://pypi.org/project/beautifulsoup4/)
 
 ### References
 
