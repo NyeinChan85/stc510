@@ -18,6 +18,8 @@ In this project, Selenium is utilized to access the "Craigslist - New York" webs
 
 Scrapping Site -> "https://newyork.craigslist.org/"
 
+https://selenium-python.readthedocs.io/index.html
+
 [Beautiful Soup: Build a Web Scraper With Python – Real Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
 [Combine Web Scraping, API Requests & Visualizations | by Techletters | Python Point | Medium](https://medium.com/python-point/combining-web-scraping-api-requests-visualizations-6b7a4cfacdd2)
