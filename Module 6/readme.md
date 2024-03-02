@@ -2,7 +2,7 @@
 
 ### Description
 
-This project analyzes Analyze a covert social network to determine who the weakest link is, and what happens to the network when we remove that link. 
+This project analyzes a covert social network to determine who the weakest link is, and what happens to the network when we remove that link. 
 [The project's dataset](http://www.casos.cs.cmu.edu/tools/datasets/external/index.php#covert) originates from an inquiry into a major cocaine trafficking network in New York City. It comprises a 28x28 one-mode matrix, representing interactions between individuals. 
 These interactions are binary and directed, reflecting communication exchanges and information flows. The dataset is sourced from police wiretaps, specifically transcripts of 151 telephone conversations.
 
